@@ -17,9 +17,9 @@ The API appends a "Response Code" to each API Call to help tell developers what 
 
 The API supports Base64 Encoding, URL Encoding (RFC 3986), Legacy URL encoding, and defaults to HTML Character Entities (http://www.amp-what.com/).
 <br>
-For Base64 Encoding, pass in "base64" as the encoding parameter. 
-For URL Encoding, pass in "url3986" as the encoding parameter. 
-For Legacy URL Encoding, pass in "urlLegacy" as the encoding parameter,
+For Base64 Encoding, pass in "base64" as the encoding parameter. <br>
+For URL Encoding, pass in "url3986" as the encoding parameter. <br>
+For Legacy URL Encoding, pass in "urlLegacy" as the encoding parameter.<br>
 
 
 # Example Usage
